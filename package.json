@@ -1,0 +1,23 @@
+{
+  "name": "api-filmes",
+  "version": "1.0.0",
+  "description": "Api Filmes",
+  "homepage": "https://github.com/llkessioll/cg-2-25.2#readme",
+  "bugs": {
+    "url": "https://github.com/llkessioll/cg-2-25.2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llkessioll/cg-2-25.2.git"
+  },
+  "license": "ISC",
+  "author": "kessio",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
